@@ -5,6 +5,7 @@ Current model accuracy: 83%
 To run:
 
 
+Open a new terminal
 
 $cd backend
 
