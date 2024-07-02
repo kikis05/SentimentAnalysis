@@ -4,10 +4,14 @@ Current model accuracy: 83%
 
 To run:
 
+
+
 $cd backend
+
 $python3 main.py
 
 Open a new Terminal
 
 $cd frontend
+
 $npm run dev
